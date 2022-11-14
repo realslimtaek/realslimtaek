@@ -23,4 +23,4 @@ can Do
  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
  
 My Blog
-<img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=firebase&logoColor=white"/>
+<a href="realslimtaek.tisotry.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=firebase&logoColor=white"/></a>
