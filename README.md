@@ -23,7 +23,7 @@ STACK //THAT I USED AT LEAST ONCE
  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
  <img src= "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <br>
  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
@@ -39,5 +39,5 @@ STACK //THAT I USED AT LEAST ONCE
  <img src=""/>
  -->
  CONTATCT
-My Blog <a href="realslimtaek.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=firebase&logoColor=white"/></a>
+My Blog <a href="realslimtaek.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=firebase&logoColor=white"/></a> <br>
 My Email<a href="realslimtaek@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
