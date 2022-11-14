@@ -40,4 +40,4 @@ STACK //THAT I USED AT LEAST ONCE <br>
  -->
  CONTATCT
 My Blog   <a href="realslimtaek.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=firebase&logoColor=white"/></a> <br>
-My Email  <realslimtaek@protonmail.com>   <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
+My Email   <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/> <realslimtaek@protonmail.com>
