@@ -36,5 +36,7 @@ STACK //THAT I USED AT LEAST ONCE <br>
  <img src=""/>
  -->
  CONTATCT
+ <!--
 My Blog   <a href="realslimtaek.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=firebase&logoColor=white"/></a> <br>
+-->
 My Email   <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/> <realslimtaek@protonmail.com>
